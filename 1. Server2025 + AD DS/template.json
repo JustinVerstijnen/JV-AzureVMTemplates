@@ -185,7 +185,7 @@
           ]
         },
         "protectedSettings": {
-          "commandToExecute": "powershell -ExecutionPolicy Unrestricted -File JV-ServersInitialInstall+AD.ps1"
+          "commandToExecute": "powershell -ExecutionPolicy Unrestricted -Command ./JV-ServersInitialInstall*AD.ps1"
         }
       }
     }

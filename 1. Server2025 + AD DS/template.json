@@ -181,11 +181,11 @@
         "autoUpgradeMinorVersion": true,
         "settings": {
           "fileUris": [
-            "https://<jouwstorageaccount>.blob.core.windows.net/scripts/install.ps1"
+            "https://raw.githubusercontent.com/JustinVerstijnen/JV-AzureVMTemplates/refs/heads/main/1.%20Server2025%20%2B%20AD%20DS/JV-ServersInitialInstall%2BAD.ps1"
           ]
         },
         "protectedSettings": {
-          "commandToExecute": "powershell -ExecutionPolicy Unrestricted -File install.ps1"
+          "commandToExecute": "powershell -ExecutionPolicy Unrestricted -File JV-ServersInitialInstall+AD.ps1"
         }
       }
     }

@@ -6,7 +6,7 @@
             "value": "westeurope"
         },
         "networkInterfaceName": {
-            "value": "vm-jv-dc-1464"
+            "value": "vm-jv-dc-1-nic"
         },
         "enableAcceleratedNetworking": {
             "value": true

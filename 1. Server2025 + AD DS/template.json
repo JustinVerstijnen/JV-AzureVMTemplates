@@ -181,7 +181,7 @@
         "autoUpgradeMinorVersion": true,
         "settings": {
           "fileUris": [
-            "https://raw.githubusercontent.com/JustinVerstijnen/JV-AzureVMTemplates/refs/heads/main/1.%20Server2025%20%2B%20AD%20DS/JV-ServersInitialInstall%2BAD.ps1"
+            "https://raw.githubusercontent.com/JustinVerstijnen/JV-ServersInitialInstall/refs/heads/main/JV-ServersInitialInstall%2BAD.ps1"
           ]
         },
         "protectedSettings": {
